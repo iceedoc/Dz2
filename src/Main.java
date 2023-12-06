@@ -52,7 +52,7 @@ public class Main {
         System.out.println(employees);
         employees = 174 / 8;
         System.out.println(employees);
-        System.out.println("Спасибо за внимание!!!");
+        System.out.println("Спасибо за внимание!!");
         System.out.println("Извените за задержку");
 
 
